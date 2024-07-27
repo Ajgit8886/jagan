@@ -17,3 +17,9 @@
 
 # MAGIC %sql
 # MAGIC insert into jagan values (1, 'ram');
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC insert into jagan values (2, 'rahul'),
+# MAGIC                           (3, 'rohan');
